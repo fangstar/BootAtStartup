@@ -1,1 +1,2 @@
-Example program of using Broadcast Receiver and using the android.permission.RECEIVE_BOOT_COMPLETED
+Example program of using Broadcast Receiver and using the android.permission.RECEIVE_BOOT_COMPLETED.
+Don't be like me and be confused when this gets called. This gets called only when the phone is going from a power Off to On state. 
